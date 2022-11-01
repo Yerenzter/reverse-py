@@ -1,2 +1,2 @@
-# reverse-py
-Text reversing tool of Python3
+# Reverser
+Text reversing tool of Python3.
